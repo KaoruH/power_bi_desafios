@@ -11,3 +11,4 @@ Neste repositório, você encontrará os desafios práticos que devem ser conclu
 O repositório está organizado da seguinte maneira:
 
 - **Desafio 1**: Analisando Dados com meu Primeiro Projeto no Power BI
+- **Desafio 2**: Criando um Relatório de Vendas Elegante com Power BI
