@@ -13,3 +13,5 @@ O repositório está organizado da seguinte maneira:
 - **Desafio 1**: Analisando Dados com meu Primeiro Projeto no Power BI
 - **Desafio 2**: Criando um Relatório de Vendas Elegante com Power BI
 - **Desafio 3**: Processando e Transformando Dados com Power BI
+- **Desafio 4**: Criando um Star Schema para Cenários de Vendas com Power BI
+- **Desafio 5**: Modelagem e Transformação de dados com DAX com Power BI
