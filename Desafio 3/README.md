@@ -48,6 +48,8 @@ ________________________________________________________________________________
 - Baixar BD base fornecida pelo desafio
 - Corrigir nomes e queries
 
+- OBS: o conector sugerido pelo PowerBI não funcionou. Eu precisei baixar uma versão anterior do conector para que funcionasse.
+
 **Todas as Tabelas**
 - Remover colunas desnecessárias.
 - Converter a coluna chave de número para texto.
