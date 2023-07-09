@@ -1,4 +1,4 @@
-**Descrição do Desafio 6**
+## Descrição do Desafio 6
 
 **Objetivo:**
 
