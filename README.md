@@ -15,3 +15,6 @@ O repositório está organizado da seguinte maneira:
 - **Desafio 3**: Processando e Transformando Dados com Power BI
 - **Desafio 4**: Criando um Star Schema para Cenários de Vendas com Power BI
 - **Desafio 5**: Modelagem e Transformação de dados com DAX com Power BI
+- **Desafio 6**: Atualizando Relatório no Power BI com Foco na Experiência do Usuário
+- **Desafio 7**: Projeto de Data Analytics com Power BI
+- **Desafio 8**: Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
